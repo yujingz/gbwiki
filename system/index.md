@@ -59,6 +59,7 @@ Recommended lanes:
 - `wiki/guides/`
 - [[wiki/topics/telegram-gaibang-mainline]]: first synthesis page for the Telegram group chat's long-term mainline and aggregate behavior metrics.
 - [[wiki/topics/telegram-gaibang-games-top5]]: game Top5 synthesis and data-usability check for the Telegram group chat snapshot.
+- [[wiki/topics/telegram-gaibang-social-topology]]: social topology synthesis for the Telegram group chat, using membership events, replies, turn-taking, and session co-presence.
 
 Register durable entry pages here when they become important.
 

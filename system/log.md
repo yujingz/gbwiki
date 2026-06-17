@@ -46,3 +46,9 @@ Append meaningful operations here.
 - Removed single-maintainer naming from system instructions, source maps, and Telegram records.
 - Replaced local machine import paths with redacted import-path wording while preserving restorable archive references.
 - Left source-derived chat tokens unchanged because they are evidence artifacts, not system ownership metadata.
+
+## 2026-06-17 | synthesize | Telegram group chat social topology
+
+- Added `system/scripts/analyze-telegram-topology.py` to generate reproducible participant-node, pair-edge, and membership-event metrics.
+- Generated topology artifacts under the Telegram snapshot `derived/analysis/topology/` directory.
+- Created `wiki/topics/telegram-gaibang-social-topology.md` with a source-backed relationship topology synthesis and explicit evidence-strength caveats.

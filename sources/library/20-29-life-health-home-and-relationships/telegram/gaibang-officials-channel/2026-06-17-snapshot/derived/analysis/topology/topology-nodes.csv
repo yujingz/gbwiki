@@ -1,0 +1,14 @@
+from_id,name,messages,active_months,first_date,last_date,avg_chars,replies_sent,replies_received,turns_after_others,turns_before_others,co_sessions,relationship_strength,strongest_ties
+user19005170,fry.xzb,63392,122,2016-04-29,2026-06-17,12.1,1137,1532,27957,29317,11150,322.4,Xiaotian Li;Yifan Cai;Zhe Cheng;Yunxing Dai;Shenwei Zhang
+user204577628,Xiaotian Li,50729,122,2016-04-29,2026-06-17,11.9,1930,1266,28614,27459,11069,351.5,fry.xzb;Yunxing Dai;Yifan Cai;Zhe Cheng;Shenwei Zhang
+user173251847,Zhe Cheng,50678,118,2016-04-29,2026-06-03,9.4,752,855,24652,24154,9674,235.2,Xiaotian Li;fry.xzb;Yifan Cai;Yunxing Dai;Shenwei Zhang
+user182321300,Yifan Cai,37670,122,2016-04-29,2026-06-16,13.8,655,1422,22945,22757,11193,264.6,Xiaotian Li;fry.xzb;Yunxing Dai;Zhe Cheng;Shenwei Zhang
+user229753183,Yunxing Dai,28714,120,2016-05-25,2026-06-17,15.9,1426,1248,13134,13893,10520,261.2,Xiaotian Li;fry.xzb;Yifan Cai;Zhe Cheng;Shenwei Zhang
+user158566927,Shenwei Zhang,11936,111,2017-03-30,2026-06-04,12.8,910,517,5348,5529,6749,137.7,fry.xzb;Yunxing Dai;Zhe Cheng;Yifan Cai;Xiaotian Li
+user309780443,Tong Chen,8963,48,2017-02-18,2025-09-10,10.3,212,134,6170,5890,2801,57.1,fry.xzb;Xiaotian Li;Yifan Cai;Zhe Cheng;Yunxing Dai
+user530477225,Yutong Pei,6210,37,2020-11-20,2024-06-10,17.6,445,376,3062,3156,2689,73.8,Yunxing Dai;Xiaotian Li;Yifan Cai;Zhe Cheng;fry.xzb
+user234328816,unknown,5179,5,2016-06-05,2016-10-04,11.8,2,6,3051,3079,473,14.5,Yifan Cai;Zhe Cheng;fry.xzb;Xiaotian Li;Yunxing Dai
+user427973593,unknown,4164,15,2017-07-02,2018-09-11,10.9,34,68,1928,1979,1713,21.5,fry.xzb;Tong Chen;Xiaotian Li;Yifan Cai;Zhe Cheng
+user257147853,unknown,3773,24,2018-05-14,2020-12-05,12.4,19,86,2643,2315,2027,25.0,fry.xzb;Xiaotian Li;Zhe Cheng;Yifan Cai;Tong Chen
+user277407287,unknown,1202,5,2016-10-08,2018-03-16,13.6,1,2,699,700,210,3.9,Zhe Cheng;fry.xzb;Xiaotian Li;Yifan Cai;Yunxing Dai
+user1133297938,Jiaxin Hu,907,38,2020-08-07,2026-02-07,10.1,24,35,369,344,716,8.2,Xiaotian Li;Zhe Cheng;fry.xzb;Yifan Cai;Yunxing Dai

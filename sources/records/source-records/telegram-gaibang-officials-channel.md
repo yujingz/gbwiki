@@ -17,9 +17,10 @@ last_reviewed: 2026-06-17
 related_wiki:
   - wiki/topics/telegram-gaibang-mainline.md
   - wiki/topics/telegram-gaibang-games-top5.md
+  - wiki/topics/telegram-gaibang-social-topology.md
 related_local_sources:
   - sources/library/20-29-life-health-home-and-relationships/telegram/gaibang-officials-channel/2026-06-17-snapshot/
-verification_status: integrity-checked; content claims not promoted
+verification_status: integrity-checked; aggregate wiki synthesis promoted without raw message quotes
 ---
 
 # Telegram Group Chat: 丐帮官员频道
@@ -54,4 +55,5 @@ verification_status: integrity-checked; content claims not promoted
 
 - Wiki synthesis: `wiki/topics/telegram-gaibang-mainline.md`
 - Wiki synthesis: `wiki/topics/telegram-gaibang-games-top5.md`
+- Wiki synthesis: `wiki/topics/telegram-gaibang-social-topology.md`
 - Ingestion record: `sources/records/ingestion-records/2026-06-17-telegram-gaibang-officials-channel-snapshot.md`

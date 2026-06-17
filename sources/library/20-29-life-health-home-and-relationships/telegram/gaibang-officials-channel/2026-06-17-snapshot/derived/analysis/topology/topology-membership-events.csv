@@ -1,0 +1,31 @@
+date,action,actor_id,actor_name,member_id,member_name,mapped
+2016-04-29T01:21:51,create_group_member,user19005170,fry.xzb,user19005170,fry.xzb,True
+2016-04-29T01:21:51,create_group_member,user19005170,fry.xzb,user204577628,Xiaotian Li,True
+2016-04-29T01:21:51,create_group_member,user19005170,fry.xzb,user182321300,Yifan Cai,True
+2016-04-29T02:16:46,invite_members,user19005170,fry.xzb,user173251847,Zhe Cheng,True
+2016-05-25T08:09:53,invite_members,user19005170,fry.xzb,user229753183,Yunxing Dai,True
+2016-08-12T08:53:36,invite_members,user182321300,Yifan Cai,,gpbsbot,False
+2016-08-19T09:41:15,invite_members,user19005170,fry.xzb,,husky,False
+2017-03-30T01:29:02,invite_members,user204577628,Xiaotian Li,user158566927,Shenwei Zhang,True
+2017-03-30T01:41:09,invite_members,user204577628,Xiaotian Li,user158566927,Shenwei Zhang,True
+2017-03-30T04:18:56,invite_members,user19005170,fry.xzb,user204577628,Xiaotian Li,True
+2017-03-30T04:44:29,invite_members,user182321300,Yifan Cai,user204577628,Xiaotian Li,True
+2017-03-30T07:42:00,invite_members,user204577628,Xiaotian Li,user158566927,Shenwei Zhang,True
+2017-03-30T08:24:22,invite_members,user204577628,Xiaotian Li,user158566927,Shenwei Zhang,True
+2017-07-13T22:54:07,invite_members,user19005170,fry.xzb,user204577628,Xiaotian Li,True
+2017-12-02T07:52:07,invite_members,user19005170,fry.xzb,,duoduo,False
+2017-12-02T09:03:03,invite_members,user19005170,fry.xzb,,duoduo,False
+2020-08-07T07:51:14,invite_members,user19005170,fry.xzb,user1133297938,Jiaxin Hu,True
+2020-11-20T09:29:52,join_group_by_link,user530477225,Yutong Pei,user530477225,Yutong Pei,True
+2020-11-22T01:41:06,invite_members,user530477225,Yutong Pei,,Yicheng,False
+2021-04-03T04:40:28,invite_to_group_call,user204577628,Xiaotian Li,user229753183,Yunxing Dai,True
+2021-04-03T05:30:56,invite_to_group_call,user204577628,Xiaotian Li,user19005170,fry.xzb,True
+2021-04-03T05:31:15,invite_to_group_call,user204577628,Xiaotian Li,user182321300,Yifan Cai,True
+2021-04-03T05:31:25,invite_to_group_call,user204577628,Xiaotian Li,user158566927,Shenwei Zhang,True
+2021-04-03T05:31:50,invite_to_group_call,user204577628,Xiaotian Li,user173251847,Zhe Cheng,True
+2021-04-05T05:53:55,invite_members,user19005170,fry.xzb,,Combot,False
+2026-02-27T13:10:20,invite_members,user19005170,fry.xzb,,泡泡猪,False
+2026-02-27T13:17:54,invite_members,user19005170,fry.xzb,,泡泡猪,False
+2026-02-27T13:27:13,invite_members,user19005170,fry.xzb,,泡泡猪,False
+2026-03-03T14:01:35,invite_members,user229753183,Yunxing Dai,,皮皮虾,False
+2026-03-03T14:22:03,invite_members,user229753183,Yunxing Dai,,皮皮虾,False

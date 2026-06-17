@@ -1,0 +1,78 @@
+[
+  {
+    "item": "generic_lol_laugh",
+    "reason": "platform/noise term; not ranked as a game",
+    "message_count": 638,
+    "mention_occurrences": 638,
+    "top_aliases": [
+      [
+        "lol",
+        638
+      ]
+    ]
+  },
+  {
+    "item": "Nintendo Switch",
+    "reason": "platform/noise term; not ranked as a game",
+    "message_count": 299,
+    "mention_occurrences": 303,
+    "top_aliases": [
+      [
+        "switch",
+        244
+      ],
+      [
+        "ns",
+        59
+      ]
+    ]
+  },
+  {
+    "item": "PlayStation",
+    "reason": "platform/noise term; not ranked as a game",
+    "message_count": 233,
+    "mention_occurrences": 250,
+    "top_aliases": [
+      [
+        "ps4",
+        171
+      ],
+      [
+        "ps5",
+        64
+      ],
+      [
+        "playstation",
+        13
+      ],
+      [
+        "ps3",
+        2
+      ]
+    ]
+  },
+  {
+    "item": "Steam",
+    "reason": "platform/noise term; not ranked as a game",
+    "message_count": 171,
+    "mention_occurrences": 174,
+    "top_aliases": [
+      [
+        "steam",
+        174
+      ]
+    ]
+  },
+  {
+    "item": "Xbox",
+    "reason": "platform/noise term; not ranked as a game",
+    "message_count": 67,
+    "mention_occurrences": 75,
+    "top_aliases": [
+      [
+        "xbox",
+        75
+      ]
+    ]
+  }
+]

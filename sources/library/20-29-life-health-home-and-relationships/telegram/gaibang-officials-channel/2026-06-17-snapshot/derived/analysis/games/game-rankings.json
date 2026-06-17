@@ -1,0 +1,1193 @@
+[
+  {
+    "game": "Dota 2 / Dota",
+    "evidence_score": 1077.5,
+    "message_count": 780,
+    "mention_occurrences": 810,
+    "participant_count": 15,
+    "active_year_count": 10,
+    "play_context_messages": 90,
+    "top_years": [
+      [
+        "2017",
+        269
+      ],
+      [
+        "2016",
+        211
+      ],
+      [
+        "2018",
+        107
+      ],
+      [
+        "2020",
+        82
+      ],
+      [
+        "2019",
+        47
+      ]
+    ],
+    "top_aliases": [
+      [
+        "dota",
+        694
+      ],
+      [
+        "dota2",
+        108
+      ],
+      [
+        "dota 2",
+        8
+      ]
+    ],
+    "top_senders": [
+      [
+        "user204577628",
+        207
+      ],
+      [
+        "user19005170",
+        154
+      ],
+      [
+        "user182321300",
+        147
+      ],
+      [
+        "user173251847",
+        87
+      ],
+      [
+        "user229753183",
+        73
+      ]
+    ]
+  },
+  {
+    "game": "World of Warcraft",
+    "evidence_score": 1024.25,
+    "message_count": 689,
+    "mention_occurrences": 758,
+    "participant_count": 16,
+    "active_year_count": 11,
+    "play_context_messages": 141,
+    "top_years": [
+      [
+        "2016",
+        263
+      ],
+      [
+        "2017",
+        156
+      ],
+      [
+        "2018",
+        93
+      ],
+      [
+        "2020",
+        57
+      ],
+      [
+        "2019",
+        40
+      ]
+    ],
+    "top_aliases": [
+      [
+        "wow",
+        508
+      ],
+      [
+        "魔兽",
+        185
+      ],
+      [
+        "魔兽世界",
+        61
+      ],
+      [
+        "world of warcraft",
+        4
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        173
+      ],
+      [
+        "user19005170",
+        149
+      ],
+      [
+        "user204577628",
+        116
+      ],
+      [
+        "user173251847",
+        86
+      ],
+      [
+        "user229753183",
+        77
+      ]
+    ]
+  },
+  {
+    "game": "Overwatch",
+    "evidence_score": 356.5,
+    "message_count": 92,
+    "mention_occurrences": 120,
+    "participant_count": 12,
+    "active_year_count": 10,
+    "play_context_messages": 18,
+    "top_years": [
+      [
+        "2016",
+        42
+      ],
+      [
+        "2017",
+        17
+      ],
+      [
+        "2018",
+        11
+      ],
+      [
+        "2020",
+        8
+      ],
+      [
+        "2021",
+        5
+      ]
+    ],
+    "top_aliases": [
+      [
+        "守望",
+        63
+      ],
+      [
+        "overwatch",
+        31
+      ],
+      [
+        "守望先锋",
+        26
+      ]
+    ],
+    "top_senders": [
+      [
+        "user229753183",
+        34
+      ],
+      [
+        "user19005170",
+        25
+      ],
+      [
+        "user204577628",
+        10
+      ],
+      [
+        "user182321300",
+        5
+      ],
+      [
+        "user173251847",
+        5
+      ]
+    ]
+  },
+  {
+    "game": "The Legend of Zelda",
+    "evidence_score": 348.75,
+    "message_count": 88,
+    "mention_occurrences": 89,
+    "participant_count": 11,
+    "active_year_count": 10,
+    "play_context_messages": 23,
+    "top_years": [
+      [
+        "2018",
+        48
+      ],
+      [
+        "2017",
+        11
+      ],
+      [
+        "2023",
+        9
+      ],
+      [
+        "2025",
+        6
+      ],
+      [
+        "2020",
+        5
+      ]
+    ],
+    "top_aliases": [
+      [
+        "塞尔达",
+        72
+      ],
+      [
+        "zelda",
+        17
+      ]
+    ],
+    "top_senders": [
+      [
+        "user19005170",
+        19
+      ],
+      [
+        "user204577628",
+        19
+      ],
+      [
+        "user182321300",
+        16
+      ],
+      [
+        "user309780443",
+        13
+      ],
+      [
+        "user229753183",
+        12
+      ]
+    ]
+  },
+  {
+    "game": "Pokemon",
+    "evidence_score": 289.0,
+    "message_count": 76,
+    "mention_occurrences": 83,
+    "participant_count": 10,
+    "active_year_count": 8,
+    "play_context_messages": 12,
+    "top_years": [
+      [
+        "2018",
+        36
+      ],
+      [
+        "2016",
+        27
+      ],
+      [
+        "2019",
+        5
+      ],
+      [
+        "2017",
+        3
+      ],
+      [
+        "2025",
+        2
+      ]
+    ],
+    "top_aliases": [
+      [
+        "pokemon",
+        60
+      ],
+      [
+        "pokémon",
+        9
+      ],
+      [
+        "宝可梦",
+        8
+      ],
+      [
+        "口袋妖怪",
+        6
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        33
+      ],
+      [
+        "user204577628",
+        15
+      ],
+      [
+        "user229753183",
+        7
+      ],
+      [
+        "user173251847",
+        6
+      ],
+      [
+        "user19005170",
+        5
+      ]
+    ]
+  },
+  {
+    "game": "Diablo",
+    "evidence_score": 288.5,
+    "message_count": 69,
+    "mention_occurrences": 73,
+    "participant_count": 11,
+    "active_year_count": 8,
+    "play_context_messages": 18,
+    "top_years": [
+      [
+        "2021",
+        18
+      ],
+      [
+        "2016",
+        17
+      ],
+      [
+        "2017",
+        9
+      ],
+      [
+        "2018",
+        8
+      ],
+      [
+        "2023",
+        7
+      ]
+    ],
+    "top_aliases": [
+      [
+        "暗黑",
+        68
+      ],
+      [
+        "diablo",
+        5
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        22
+      ],
+      [
+        "user229753183",
+        18
+      ],
+      [
+        "user234328816",
+        7
+      ],
+      [
+        "user204577628",
+        4
+      ],
+      [
+        "user173251847",
+        4
+      ]
+    ]
+  },
+  {
+    "game": "Monster Hunter",
+    "evidence_score": 241.75,
+    "message_count": 64,
+    "mention_occurrences": 65,
+    "participant_count": 7,
+    "active_year_count": 7,
+    "play_context_messages": 11,
+    "top_years": [
+      [
+        "2017",
+        20
+      ],
+      [
+        "2021",
+        17
+      ],
+      [
+        "2018",
+        14
+      ],
+      [
+        "2020",
+        6
+      ],
+      [
+        "2023",
+        4
+      ]
+    ],
+    "top_aliases": [
+      [
+        "怪物猎人",
+        43
+      ],
+      [
+        "怪猎",
+        17
+      ],
+      [
+        "monster hunter",
+        5
+      ]
+    ],
+    "top_senders": [
+      [
+        "user229753183",
+        21
+      ],
+      [
+        "user182321300",
+        16
+      ],
+      [
+        "user530477225",
+        10
+      ],
+      [
+        "user309780443",
+        8
+      ],
+      [
+        "user204577628",
+        4
+      ]
+    ]
+  },
+  {
+    "game": "Civilization",
+    "evidence_score": 230.75,
+    "message_count": 44,
+    "mention_occurrences": 46,
+    "participant_count": 9,
+    "active_year_count": 7,
+    "play_context_messages": 7,
+    "top_years": [
+      [
+        "2017",
+        10
+      ],
+      [
+        "2018",
+        10
+      ],
+      [
+        "2021",
+        9
+      ],
+      [
+        "2016",
+        6
+      ],
+      [
+        "2020",
+        4
+      ]
+    ],
+    "top_aliases": [
+      [
+        "文明",
+        46
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        8
+      ],
+      [
+        "user19005170",
+        7
+      ],
+      [
+        "user204577628",
+        6
+      ],
+      [
+        "user173251847",
+        6
+      ],
+      [
+        "user309780443",
+        6
+      ]
+    ]
+  },
+  {
+    "game": "Honor of Kings",
+    "evidence_score": 224.25,
+    "message_count": 51,
+    "mention_occurrences": 51,
+    "participant_count": 10,
+    "active_year_count": 6,
+    "play_context_messages": 13,
+    "top_years": [
+      [
+        "2017",
+        27
+      ],
+      [
+        "2018",
+        12
+      ],
+      [
+        "2021",
+        7
+      ],
+      [
+        "2020",
+        3
+      ],
+      [
+        "2019",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "王者荣耀",
+        51
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        15
+      ],
+      [
+        "user229753183",
+        11
+      ],
+      [
+        "user173251847",
+        8
+      ],
+      [
+        "user204577628",
+        6
+      ],
+      [
+        "user427973593",
+        4
+      ]
+    ]
+  },
+  {
+    "game": "Hearthstone",
+    "evidence_score": 213.0,
+    "message_count": 49,
+    "mention_occurrences": 50,
+    "participant_count": 8,
+    "active_year_count": 6,
+    "play_context_messages": 16,
+    "top_years": [
+      [
+        "2018",
+        23
+      ],
+      [
+        "2016",
+        17
+      ],
+      [
+        "2017",
+        5
+      ],
+      [
+        "2023",
+        2
+      ],
+      [
+        "2019",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "炉石",
+        49
+      ],
+      [
+        "hearthstone",
+        1
+      ]
+    ],
+    "top_senders": [
+      [
+        "user204577628",
+        20
+      ],
+      [
+        "user229753183",
+        9
+      ],
+      [
+        "user19005170",
+        8
+      ],
+      [
+        "user173251847",
+        4
+      ],
+      [
+        "user182321300",
+        3
+      ]
+    ]
+  },
+  {
+    "game": "Genshin Impact",
+    "evidence_score": 152.0,
+    "message_count": 26,
+    "mention_occurrences": 26,
+    "participant_count": 5,
+    "active_year_count": 5,
+    "play_context_messages": 4,
+    "top_years": [
+      [
+        "2020",
+        12
+      ],
+      [
+        "2021",
+        9
+      ],
+      [
+        "2023",
+        3
+      ],
+      [
+        "2022",
+        1
+      ],
+      [
+        "2025",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "原神",
+        25
+      ],
+      [
+        "genshin",
+        1
+      ]
+    ],
+    "top_senders": [
+      [
+        "user19005170",
+        9
+      ],
+      [
+        "user182321300",
+        7
+      ],
+      [
+        "user173251847",
+        6
+      ],
+      [
+        "user530477225",
+        3
+      ],
+      [
+        "user204577628",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "PUBG",
+    "evidence_score": 135.5,
+    "message_count": 20,
+    "mention_occurrences": 21,
+    "participant_count": 7,
+    "active_year_count": 4,
+    "play_context_messages": 2,
+    "top_years": [
+      [
+        "2020",
+        14
+      ],
+      [
+        "2021",
+        4
+      ],
+      [
+        "2018",
+        1
+      ],
+      [
+        "2019",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "pubg",
+        18
+      ],
+      [
+        "绝地求生",
+        3
+      ]
+    ],
+    "top_senders": [
+      [
+        "user158566927",
+        6
+      ],
+      [
+        "user173251847",
+        6
+      ],
+      [
+        "user204577628",
+        3
+      ],
+      [
+        "user229753183",
+        2
+      ],
+      [
+        "user427973593",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "StarCraft",
+    "evidence_score": 135.5,
+    "message_count": 10,
+    "mention_occurrences": 10,
+    "participant_count": 5,
+    "active_year_count": 5,
+    "play_context_messages": 2,
+    "top_years": [
+      [
+        "2021",
+        4
+      ],
+      [
+        "2017",
+        2
+      ],
+      [
+        "2022",
+        2
+      ],
+      [
+        "2016",
+        1
+      ],
+      [
+        "2019",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "星际",
+        10
+      ]
+    ],
+    "top_senders": [
+      [
+        "user229753183",
+        3
+      ],
+      [
+        "user19005170",
+        2
+      ],
+      [
+        "user182321300",
+        2
+      ],
+      [
+        "user204577628",
+        2
+      ],
+      [
+        "user530477225",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "Dark Souls",
+    "evidence_score": 120.75,
+    "message_count": 10,
+    "mention_occurrences": 10,
+    "participant_count": 6,
+    "active_year_count": 4,
+    "play_context_messages": 3,
+    "top_years": [
+      [
+        "2017",
+        4
+      ],
+      [
+        "2021",
+        3
+      ],
+      [
+        "2018",
+        2
+      ],
+      [
+        "2022",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "黑魂",
+        10
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        2
+      ],
+      [
+        "user229753183",
+        2
+      ],
+      [
+        "user204577628",
+        2
+      ],
+      [
+        "user530477225",
+        2
+      ],
+      [
+        "user309780443",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "Sekiro",
+    "evidence_score": 114.75,
+    "message_count": 9,
+    "mention_occurrences": 9,
+    "participant_count": 5,
+    "active_year_count": 4,
+    "play_context_messages": 3,
+    "top_years": [
+      [
+        "2020",
+        4
+      ],
+      [
+        "2022",
+        2
+      ],
+      [
+        "2024",
+        2
+      ],
+      [
+        "2018",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "只狼",
+        9
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        5
+      ],
+      [
+        "user427973593",
+        1
+      ],
+      [
+        "user229753183",
+        1
+      ],
+      [
+        "user173251847",
+        1
+      ],
+      [
+        "user530477225",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "Elden Ring",
+    "evidence_score": 103.25,
+    "message_count": 17,
+    "mention_occurrences": 17,
+    "participant_count": 5,
+    "active_year_count": 3,
+    "play_context_messages": 5,
+    "top_years": [
+      [
+        "2022",
+        10
+      ],
+      [
+        "2021",
+        5
+      ],
+      [
+        "2024",
+        2
+      ]
+    ],
+    "top_aliases": [
+      [
+        "老头环",
+        17
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        5
+      ],
+      [
+        "user204577628",
+        4
+      ],
+      [
+        "user530477225",
+        3
+      ],
+      [
+        "user229753183",
+        3
+      ],
+      [
+        "user173251847",
+        2
+      ]
+    ]
+  },
+  {
+    "game": "Cyberpunk 2077",
+    "evidence_score": 92.5,
+    "message_count": 12,
+    "mention_occurrences": 13,
+    "participant_count": 4,
+    "active_year_count": 3,
+    "play_context_messages": 2,
+    "top_years": [
+      [
+        "2020",
+        6
+      ],
+      [
+        "2021",
+        4
+      ],
+      [
+        "2018",
+        2
+      ]
+    ],
+    "top_aliases": [
+      [
+        "cyberpunk",
+        10
+      ],
+      [
+        "赛博朋克",
+        3
+      ]
+    ],
+    "top_senders": [
+      [
+        "user182321300",
+        4
+      ],
+      [
+        "user229753183",
+        4
+      ],
+      [
+        "user427973593",
+        2
+      ],
+      [
+        "user530477225",
+        2
+      ]
+    ]
+  },
+  {
+    "game": "Minecraft",
+    "evidence_score": 80.0,
+    "message_count": 5,
+    "mention_occurrences": 5,
+    "participant_count": 3,
+    "active_year_count": 3,
+    "play_context_messages": 0,
+    "top_years": [
+      [
+        "2022",
+        3
+      ],
+      [
+        "2016",
+        1
+      ],
+      [
+        "2025",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "我的世界",
+        3
+      ],
+      [
+        "minecraft",
+        2
+      ]
+    ],
+    "top_senders": [
+      [
+        "user229753183",
+        3
+      ],
+      [
+        "user204577628",
+        1
+      ],
+      [
+        "user530477225",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "Final Fantasy XIV",
+    "evidence_score": 61.0,
+    "message_count": 6,
+    "mention_occurrences": 6,
+    "participant_count": 3,
+    "active_year_count": 2,
+    "play_context_messages": 0,
+    "top_years": [
+      [
+        "2019",
+        5
+      ],
+      [
+        "2020",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "ff14",
+        6
+      ]
+    ],
+    "top_senders": [
+      [
+        "user19005170",
+        3
+      ],
+      [
+        "user257147853",
+        2
+      ],
+      [
+        "user182321300",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "Counter-Strike",
+    "evidence_score": 53.25,
+    "message_count": 3,
+    "mention_occurrences": 3,
+    "participant_count": 2,
+    "active_year_count": 2,
+    "play_context_messages": 1,
+    "top_years": [
+      [
+        "2019",
+        2
+      ],
+      [
+        "2017",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "csgo",
+        3
+      ]
+    ],
+    "top_senders": [
+      [
+        "user257147853",
+        2
+      ],
+      [
+        "user309780443",
+        1
+      ]
+    ]
+  },
+  {
+    "game": "Apex Legends",
+    "evidence_score": 26.0,
+    "message_count": 1,
+    "mention_occurrences": 1,
+    "participant_count": 1,
+    "active_year_count": 1,
+    "play_context_messages": 0,
+    "top_years": [
+      [
+        "2018",
+        1
+      ]
+    ],
+    "top_aliases": [
+      [
+        "apex",
+        1
+      ]
+    ],
+    "top_senders": [
+      [
+        "user19005170",
+        1
+      ]
+    ]
+  }
+]

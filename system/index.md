@@ -46,9 +46,7 @@ Capture is temporary. Triage useful material into `sources/library/`, `wiki/`, `
 
 ## Wiki
 
-`wiki/` starts empty.
-
-Use it for synthesized understanding, not raw source storage.
+`wiki/` contains synthesized understanding, not raw source storage.
 
 Recommended lanes:
 
@@ -59,18 +57,22 @@ Recommended lanes:
 - `wiki/projects/`
 - `wiki/decisions/`
 - `wiki/guides/`
+- [[wiki/topics/telegram-gaibang-mainline]]: first synthesis page for the Telegram group chat's long-term mainline and aggregate behavior metrics.
+- [[wiki/topics/telegram-gaibang-games-top5]]: game Top5 synthesis and data-usability check for the Telegram group chat snapshot.
 
 Register durable entry pages here when they become important.
 
 ## Sources
 
-`sources/` starts without source materials.
+`sources/` stores selected source materials, source maps, and ingest records.
 
 - `sources/library/`: selected local source material only when useful.
 - `sources/maps/`: maps of source systems and external verification sources.
 - `sources/records/source-records/`: one record per important external source.
 - `sources/records/ingestion-records/`: records of processed ingest batches.
 - `sources/records/review-records/`: model/human review records.
+- [[sources/records/source-records/telegram-gaibang-officials-channel]]: source record for the Telegram group chat snapshot series.
+- [[sources/records/ingestion-records/2026-06-17-telegram-gaibang-officials-channel-snapshot]]: first ingested Telegram export snapshot.
 
 Do not ingest external systems wholesale. Use pointer-only, summary-only, or selective-extract unless there is a clear reason to copy.
 
@@ -79,4 +81,3 @@ Do not ingest external systems wholesale. Use pointer-only, summary-only, or sel
 `assets/` is for supporting media that is not itself source evidence.
 
 If a media file is evidence, treat it as a source artifact instead.
-

@@ -1,0 +1,134 @@
+{
+  "games": {
+    "Dota 2 / Dota": [
+      "(?<![A-Za-z0-9_])dota(?:\\s*2|2)?(?![A-Za-z0-9_])"
+    ],
+    "World of Warcraft": [
+      "(?<![A-Za-z0-9_])wow(?![A-Za-z0-9_])",
+      "world of warcraft",
+      "魔兽世界",
+      "魔兽"
+    ],
+    "Overwatch": [
+      "overwatch",
+      "守望先锋",
+      "守望"
+    ],
+    "The Legend of Zelda": [
+      "zelda",
+      "塞尔达"
+    ],
+    "Pokemon": [
+      "(?<![A-Za-z0-9_])pok[eé]mon(?![A-Za-z0-9_])",
+      "宝可梦",
+      "口袋妖怪"
+    ],
+    "Diablo": [
+      "(?<![A-Za-z0-9_])diablo(?![A-Za-z0-9_])",
+      "暗黑"
+    ],
+    "Monster Hunter": [
+      "monster hunter",
+      "怪物猎人",
+      "怪猎"
+    ],
+    "Hearthstone": [
+      "hearthstone",
+      "炉石"
+    ],
+    "Civilization": [
+      "(?<![A-Za-z0-9_])civilization(?![A-Za-z0-9_])",
+      "文明"
+    ],
+    "Honor of Kings": [
+      "王者荣耀"
+    ],
+    "Genshin Impact": [
+      "(?<![A-Za-z0-9_])genshin(?![A-Za-z0-9_])",
+      "原神"
+    ],
+    "PUBG": [
+      "(?<![A-Za-z0-9_])pubg(?![A-Za-z0-9_])",
+      "绝地求生"
+    ],
+    "Elden Ring": [
+      "elden ring",
+      "老头环"
+    ],
+    "Dark Souls": [
+      "dark souls",
+      "黑魂"
+    ],
+    "StarCraft": [
+      "(?<![A-Za-z0-9_])starcraft(?![A-Za-z0-9_])",
+      "星际"
+    ],
+    "Sekiro": [
+      "(?<![A-Za-z0-9_])sekiro(?![A-Za-z0-9_])",
+      "只狼"
+    ],
+    "Cyberpunk 2077": [
+      "(?<![A-Za-z0-9_])cyberpunk(?![A-Za-z0-9_])",
+      "赛博朋克"
+    ],
+    "Final Fantasy XIV": [
+      "(?<![A-Za-z0-9_])ff14(?![A-Za-z0-9_])",
+      "最终幻想14"
+    ],
+    "Minecraft": [
+      "(?<![A-Za-z0-9_])minecraft(?![A-Za-z0-9_])",
+      "我的世界"
+    ],
+    "Counter-Strike": [
+      "(?<![A-Za-z0-9_])csgo(?![A-Za-z0-9_])",
+      "(?<![A-Za-z0-9_])cs2(?![A-Za-z0-9_])",
+      "counter-strike"
+    ],
+    "Valorant": [
+      "(?<![A-Za-z0-9_])valorant(?![A-Za-z0-9_])",
+      "瓦罗兰特"
+    ],
+    "Apex Legends": [
+      "(?<![A-Za-z0-9_])apex(?![A-Za-z0-9_])"
+    ]
+  },
+  "platform_or_noise": {
+    "Nintendo Switch": [
+      "(?<![A-Za-z0-9_])switch(?![A-Za-z0-9_])",
+      "(?<![A-Za-z0-9_])ns(?![A-Za-z0-9_])"
+    ],
+    "Steam": [
+      "(?<![A-Za-z0-9_])steam(?![A-Za-z0-9_])"
+    ],
+    "PlayStation": [
+      "(?<![A-Za-z0-9_])ps[345](?![A-Za-z0-9_])",
+      "playstation"
+    ],
+    "Xbox": [
+      "(?<![A-Za-z0-9_])xbox(?![A-Za-z0-9_])"
+    ],
+    "generic_lol_laugh": [
+      "(?<![A-Za-z0-9_])lol(?![A-Za-z0-9_])"
+    ]
+  },
+  "play_context": [
+    "玩",
+    "开黑",
+    "排位",
+    "匹配",
+    "天梯",
+    "副本",
+    "raid",
+    "boss",
+    "dps",
+    "roll",
+    "装备",
+    "卡组",
+    "战队",
+    "赛季",
+    "手柄",
+    "主机",
+    "版本",
+    "更新"
+  ]
+}

@@ -42,6 +42,31 @@ Default handling:
 - `wiki/` is synthesis.
 - `system/` is operating structure.
 
+## Telegram
+
+```yaml
+source_system: Telegram
+relationship: external-communication-platform
+canonical: external-system-primary
+local_path: sources/library/20-29-life-health-home-and-relationships/telegram/
+ingestion_default: snapshot
+sensitivity: personal-private
+staleness_risk: high for ongoing chats after each export timestamp
+```
+
+Use for:
+
+- Telegram Desktop chat exports.
+- Date-stamped snapshots of long-running chats.
+- Derived machine-readable files generated from preserved exports.
+
+Default handling:
+
+- Keep each export as a separate date-stamped snapshot.
+- Preserve original export files as a compressed restorable archive when expanded copies are too large.
+- Store deterministic lossless derived files under `derived/`.
+- Do not promote chat content into `wiki/` without a specific synthesis task and provenance.
+
 ## Future Source Records
 
 Create more specific source records only when a source is important enough to revisit.
@@ -56,4 +81,3 @@ Good candidates:
 - one public website or documentation set
 
 Each source record should include canonicality, owner, access method, ingestion mode, staleness risk, related wiki pages, and related local source notes.
-

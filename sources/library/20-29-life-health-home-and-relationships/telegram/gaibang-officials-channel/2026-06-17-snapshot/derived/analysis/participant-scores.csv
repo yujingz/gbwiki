@@ -1,0 +1,14 @@
+from_id,name,messages,active_months,avg_chars,top_topics,参与度,持续性,发起性,信息密度,探索性,技术工具倾向,组织推进倾向,社交调节倾向,响应协作倾向
+user19005170,fry.xzb,63392,122,12.1,daily_life_relationships;tech_ai_product;games_entertainment,100.0,100.0,100.0,38.1,44.3,41.8,21.9,16.5,23.7
+user204577628,Xiaotian Li,50729,122,11.9,daily_life_relationships;games_entertainment;tech_ai_product,94.8,100.0,85.4,23.8,67.5,32.1,31.7,9.0,50.3
+user173251847,Zhe Cheng,50678,118,9.4,daily_life_relationships;games_entertainment;travel_city_mobility,94.7,96.6,75.5,10.3,33.4,14.3,14.3,51.2,19.1
+user182321300,Yifan Cai,37670,122,13.8,daily_life_relationships;tech_ai_product;games_entertainment,87.7,100.0,94.1,52.6,77.1,82.3,29.7,68.7,24.7
+user229753183,Yunxing Dai,28714,120,15.9,daily_life_relationships;games_entertainment;tech_ai_product,81.3,98.3,95.6,77.7,54.4,50.4,51.4,29.5,67.0
+user158566927,Shenwei Zhang,11936,111,12.8,daily_life_relationships;games_entertainment;tech_ai_product,60.7,90.6,76.2,32.8,38.5,22.8,27.2,86.1,100.0
+user309780443,Tong Chen,8963,48,10.3,daily_life_relationships;games_entertainment;travel_city_mobility,53.9,36.8,39.7,6.6,13.4,8.9,16.6,69.0,30.6
+user530477225,Yutong Pei,6210,37,17.6,daily_life_relationships;games_entertainment;tech_ai_product,45.3,27.4,57.4,100.0,75.9,44.3,56.8,0.0,96.9
+user234328816,unknown,5179,5,11.8,daily_life_relationships;games_entertainment;work_startup_business,41.0,0.0,26.5,15.1,12.7,50.0,24.1,54.3,0.0
+user427973593,unknown,4164,15,10.9,daily_life_relationships;games_entertainment;tech_ai_product,35.9,8.5,59.1,12.1,19.5,21.5,9.5,18.8,10.5
+user257147853,unknown,3773,24,12.4,daily_life_relationships;games_entertainment;news_society,33.6,16.2,43.3,29.6,61.3,12.8,21.8,82.1,6.1
+user277407287,unknown,1202,5,13.6,daily_life_relationships;games_entertainment;learning_research,6.6,0.0,0.0,25.4,34.7,4.0,21.5,14.8,0.6
+user1133297938,Jiaxin Hu,907,38,10.1,daily_life_relationships;tech_ai_product;travel_city_mobility,0.0,28.2,33.5,7.3,47.5,36.5,50.3,100.0,34.1

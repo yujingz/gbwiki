@@ -1,0 +1,14 @@
+{
+  "chat_name": "丐帮官员频道",
+  "input": "sources/library/20-29-life-health-home-and-relationships/telegram/gaibang-officials-channel/2026-06-17-snapshot/derived/result.compact.json.zst",
+  "total_message_count": 275016,
+  "text_message_count": 259919,
+  "first_date": "2016-04-29T01:21:57",
+  "last_date": "2026-06-17T10:26:11",
+  "ranking_method": "evidence_score = message_count + participant_count*5 + active_year_count*20 + play_context_messages*0.25",
+  "data_quality_notes": [
+    "English aliases use ASCII boundaries so names adjacent to Chinese text or punctuation are still counted.",
+    "Platform/channel/noise terms are tracked separately and excluded from game ranking.",
+    "Ranking measures chat evidence strength, not a private mental-state claim about preference."
+  ]
+}

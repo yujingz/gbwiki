@@ -17,7 +17,7 @@ Append meaningful operations here.
 
 ## 2026-06-17 | ingest | Telegram group chat snapshot
 
-- Ingested `/Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)` as a date-stamped source snapshot.
+- Ingested a redacted local Telegram Desktop export path as a date-stamped source snapshot.
 - Initially copied original export files into the snapshot; later compressed them into `original-export.tar.zst` and removed the expanded copy.
 - Generated lossless compact and zstd-compressed JSON derivatives under `derived/`.
 - Added source and ingestion records; no chat content was promoted into `wiki/`.
@@ -40,3 +40,9 @@ Append meaningful operations here.
 - Fixed English game alias matching to use ASCII boundaries so names adjacent to Chinese text or punctuation are counted.
 - Excluded platform/noise terms such as `switch`, `steam`, `ps4/ps5`, `xbox`, `ns`, and `lol` from game ranking while preserving them in a separate artifact.
 - Created `wiki/topics/telegram-gaibang-games-top5.md` with source paths, method, Top5 ranking, and data-usability notes.
+
+## 2026-06-17 | maintenance | Shared wiki depersonalization
+
+- Removed single-maintainer naming from system instructions, source maps, and Telegram records.
+- Replaced local machine import paths with redacted import-path wording while preserving restorable archive references.
+- Left source-derived chat tokens unchanged because they are evidence artifacts, not system ownership metadata.

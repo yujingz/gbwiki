@@ -2,7 +2,7 @@
 type: ingestion-record
 status: completed
 created: 2026-06-17
-source: /Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)
+source: redacted local Telegram Desktop export path; archived in snapshot
 ingestion_mode: snapshot
 related_source_records:
   - sources/records/source-records/telegram-gaibang-officials-channel.md
@@ -18,7 +18,7 @@ verification_status: integrity-checked; no durable content claims promoted
 
 - Source system: Telegram
 - Source artifact: Telegram Desktop export directory
-- Original local path: `/Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)`
+- Original local path: redacted local Telegram Desktop export path; archived in snapshot
 - Exported chat name: `丐帮官员频道`
 - Exported chat type: `private_supergroup`
 - Telegram chat id in export: `1077197275`
@@ -75,8 +75,6 @@ No conversational claims from the chat were promoted into `wiki/`.
 
 ```sh
 base="sources/library/20-29-life-health-home-and-relationships/telegram/gaibang-officials-channel/2026-06-17-snapshot"
-
-shasum -a 256 "/Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)/result.json"
 
 zstd -t "$base/original-export.tar.zst"
 zstd -t "$base/derived/result.compact.json.zst"

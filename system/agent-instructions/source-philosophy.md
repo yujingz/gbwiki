@@ -3,12 +3,12 @@ type: system-rule
 status: canonical
 created: 2026-06-17
 last_reviewed: 2026-06-17
-owner: YZ
+owner: GB friends
 ---
 
 # Source Philosophy
 
-Do not edit this philosophy unless YZ explicitly requests a source-philosophy update.
+Do not edit this philosophy unless repository maintainers explicitly request a source-philosophy update.
 
 ## Core Idea
 
@@ -252,4 +252,3 @@ Find contradictions, stale claims, orphan pages, missing source links, unprocess
 ## Final Rule
 
 Do not build a warehouse. Build a thinking layer.
-

@@ -3,11 +3,11 @@ type: source-record
 status: active
 source_system: Telegram
 source_name: 丐帮官员频道
-source_location: Telegram chat export snapshots; initial local export at /Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)
+source_location: Telegram chat export snapshots; initial local import path redacted after archiving
 canonical: external-system-primary
 relationship: first-party-member-export
 ingestion_mode: snapshot
-owner: YZ for local export; group participants for conversation content
+owner: GB friends for local archive; group participants for conversation content
 access_method: Telegram Desktop export archived into gbwiki source library
 trust_level: first-party-export
 sensitivity: personal-private
@@ -26,7 +26,7 @@ verification_status: integrity-checked; content claims not promoted
 
 ## What This Source Is
 
-- Telegram Desktop export snapshots for a long-running group chat used by YZ and close friends.
+- Telegram Desktop export snapshots for a long-running close friend group chat.
 - The first ingested snapshot covers `2016-04-29T01:21:51` through `2026-06-17T10:26:11`.
 - The first snapshot contains `275120` exported messages plus small sticker/video attachment folders.
 
@@ -41,7 +41,7 @@ verification_status: integrity-checked; content claims not promoted
 - Current local snapshot:
   `sources/library/20-29-life-health-home-and-relationships/telegram/gaibang-officials-channel/2026-06-17-snapshot/`
 - Original imported path:
-  `/Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)`
+  redacted local Telegram Desktop export path; current restorable copy is `original-export.tar.zst` in the snapshot directory.
 
 ## Ingestion Notes
 

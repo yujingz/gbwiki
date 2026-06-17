@@ -14,7 +14,7 @@ This directory preserves a point-in-time Telegram Desktop export.
 
 ## Source
 
-- Original export path: `/Users/yujing/Downloads/Telegram Desktop/ChatExport_2026-06-17 (1)`
+- Original export path: redacted local Telegram Desktop export path; archived in `original-export.tar.zst`
 - Exported chat name: `丐帮官员频道`
 - Exported chat type: `private_supergroup`
 - Telegram chat id in export: `1077197275`
@@ -58,4 +58,4 @@ zstd -dc derived/result.compact.json.zst > derived/result.compact.json
 
 - This is source evidence, not synthesized wiki understanding.
 - No raw chat messages are quoted in the current wiki synthesis.
-- Treat this material as private to YZ and the group context unless YZ explicitly says otherwise.
+- Treat this material as private to the group unless repository maintainers explicitly agree otherwise.

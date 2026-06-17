@@ -9,7 +9,7 @@ last_reviewed: 2026-06-17
 
 Use `sources/` for source records, source maps, and selected local source material.
 
-This workspace starts without source materials.
+This workspace may contain selected source materials when they improve durability, offline access, review, or reproducibility.
 
 Structure:
 
@@ -18,4 +18,3 @@ Structure:
 - `sources/records/`: source records, ingestion records, and review records.
 
 Do not copy external systems wholesale.
-

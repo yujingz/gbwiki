@@ -3,7 +3,7 @@ type: system-rule
 status: active
 created: 2026-06-17
 last_reviewed: 2026-06-17
-owner: YZ
+owner: GB friends
 ---
 
 # Ingestion Verification
@@ -73,7 +73,7 @@ Use `sources/maps/verification-sources.md` as the expandable source registry. Th
 
 ### 4. Second Review
 
-Use another model, such as Claude, when an ingest is complex, ambiguous, high impact, or creates durable synthesis that YZ may rely on.
+Use another model, such as Claude, when an ingest is complex, ambiguous, high impact, or creates durable synthesis that repository maintainers may rely on.
 
 Good review prompts provide a compact evidence pack, not raw unbounded files.
 
@@ -115,4 +115,3 @@ For wiki pages:
 - cite source paths or source records
 - mark contradictions and stale claims inline
 - avoid stating unverified source claims as current understanding
-

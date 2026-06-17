@@ -3,7 +3,7 @@ type: source-map
 status: active
 created: 2026-06-17
 last_reviewed: 2026-06-17
-owner: YZ
+owner: GB friends
 ---
 
 # Verification Sources
@@ -41,4 +41,3 @@ notes:
 Append new trusted sources when a real ingest needs them.
 
 Remove or downgrade sources when they become inaccessible, stale, misleading, or too broad to be useful.
-

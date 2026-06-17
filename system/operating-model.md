@@ -3,7 +3,7 @@ type: system-rule
 status: active
 created: 2026-06-17
 last_reviewed: 2026-06-17
-owner: YZ
+owner: GB friends
 ---
 
 # Operating Model
@@ -23,14 +23,14 @@ This page maps the source philosophy to this `gbwiki` implementation.
 | Conceptual role | Current path | Notes |
 | --- | --- | --- |
 | Capture space | `capture/` | Fast unprocessed intake. |
-| Source library | `sources/library/` | Selected local source material only when useful. Starts empty. |
+| Source library | `sources/library/` | Selected local source material only when useful. |
 | Source maps | `sources/maps/` | Maps of source systems and important source locations. |
 | Source records | `sources/records/` | Source, ingestion, and review records. |
 | Assets | `assets/` | Supporting media that is not source evidence. |
-| Wiki / synthesis | `wiki/` | Current understanding, maps, decisions, guides, entities, and projects. Starts empty. |
+| Wiki / synthesis | `wiki/` | Current understanding, maps, decisions, guides, entities, and projects. |
 | System / operating layer | `system/` and root `AGENTS.md` | Rules, index, templates, logs, and maintenance workflows. |
 
-This repository intentionally has no imported raw/source material at setup time.
+This repository keeps only selected imported source material when it improves durability, offline access, review, or reproducibility.
 
 ## Source Truth
 
@@ -85,4 +85,3 @@ Lint is a report-first workflow. It should identify concrete issues before editi
 - missing metadata
 - unmanaged migration staging
 - high-staleness snapshots
-

@@ -1,12 +1,12 @@
 # Knowledge System Agent Instructions
 
-Always address the user as YZ. Prefer Chinese when possible.
+Prefer Chinese when possible. Address collaborators by their preferred names when known.
 
 ## Highest Priority
 
 This workspace is governed by `system/agent-instructions/source-philosophy.md`.
 
-Read and follow that file before making structural, ingestion, migration, or wiki-synthesis decisions. Do not edit the source philosophy unless YZ explicitly asks for a source-philosophy update.
+Read and follow that file before making structural, ingestion, migration, or wiki-synthesis decisions. Do not edit the source philosophy unless repository maintainers explicitly ask for a source-philosophy update.
 
 If this file, older notes, or folder names conflict with the source philosophy, follow the source philosophy and surface the conflict.
 
@@ -53,7 +53,7 @@ Classify by future retrieval intent, not by file type, source app, capture metho
 - `wiki/` is the synthesis layer.
 - `system/` is the operating layer.
 
-This repository starts without source material. Do not copy or import raw data from other vaults or source systems unless YZ explicitly asks.
+Do not copy or import raw data from other vaults or source systems unless repository maintainers explicitly ask.
 
 ## Operating Principles
 
@@ -66,11 +66,11 @@ This repository starts without source material. Do not copy or import raw data f
 - Prefer updating existing durable pages over creating duplicates.
 - Mark uncertainty, staleness, and contradictions explicitly.
 - Log meaningful ingest, query-synthesis, lint, and rule changes in `system/log.md`.
-- Avoid large restructures unless YZ explicitly approves the batch and success criteria.
+- Avoid large restructures unless repository maintainers explicitly approve the batch and success criteria.
 
 ## Query Workflow
 
-When answering YZ's questions:
+When answering collaborators' questions:
 
 1. Read `system/index.md` or the relevant source map first.
 2. Search `wiki/` before searching source artifacts.
@@ -145,7 +145,7 @@ Lint should produce concrete fixes, not abstract criticism.
 
 - Read before writing.
 - Touch only what the task requires.
-- Do not delete, move, or destructively rewrite files without explicit confirmation from YZ.
+- Do not delete, move, or destructively rewrite files without explicit confirmation from repository maintainers.
 - Do not refactor adjacent structure just because it looks messy.
 - If a deterministic script can answer routing, counting, or validation, use code instead of judgment.
 - Use `uv` for Python work where an environment is needed.
@@ -156,4 +156,3 @@ Use the correct names when they appear:
 
 - Company: coScene
 - CLI product: coCLI or `cocli`
-

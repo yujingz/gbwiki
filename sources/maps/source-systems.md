@@ -3,7 +3,7 @@ type: source-map
 status: active
 created: 2026-06-17
 last_reviewed: 2026-06-17
-owner: YZ
+owner: GB friends
 ---
 
 # Source Systems
@@ -18,7 +18,7 @@ Add source systems here as they become relevant.
 source_system: gbwiki
 relationship: owned
 canonical: mixed
-local_path: /Users/yujing/Workspace/personal/gbwiki
+local_path: .
 ingestion_default: local-copy
 staleness_risk: low-to-medium
 ```
